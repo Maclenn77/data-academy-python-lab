@@ -19,7 +19,7 @@ Clone this repository
 After cloning the repo,
 
 ```bash
-  cd data-academy-python-lab
+  cd data-academy-python-lab/exercises
   python3 activity_NUMBER.py
 ```
 
